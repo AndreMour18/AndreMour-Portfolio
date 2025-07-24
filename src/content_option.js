@@ -113,7 +113,7 @@ const contactConfig = {
   YOUR_FONE: "(41) 9 9848-6650",
   description:
     "Estou sempre aberto a novos desafios! Se você tem um projeto interessante ou quer trocar uma ideia sobre tecnologia, envie uma mensagem.",
-  // creat an emailjs.com account
+  // creat an emailjs.com accountaaaa
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
   YOUR_TEMPLATE_ID: "template_id",

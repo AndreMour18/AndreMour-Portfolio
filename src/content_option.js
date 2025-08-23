@@ -4,9 +4,9 @@ import UniSearch from "./assets/images/unisearch.png";
 
 const logotext = "ANDRE MOURA";
 const meta = {
-  title: "John Doe",
+  title: "Andre Moura",
   description:
-    "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    "Meu nome é Andre, e atualmente atuo com desenvolvedor front‑end no grupo Smartly",
 };
 
 const introdata = {

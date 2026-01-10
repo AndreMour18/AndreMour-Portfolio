@@ -24,12 +24,18 @@ const introdata = {
 const dataabout = {
   title: "Um pouco sobre mim",
   aboutme:
-    "Sou André Moura, desenvolvedor front‑end com 2 anos de experiência construindo soluções web e mobile. " +
-    "Especializei‑me em React, React Native para criar aplicações em tempo real. " +
-    "Adoro transformar ideias em interfaces intuitivas, otimizar desempenho e trabalhar em equipe. " +
-    "Busco sempre aprender novas tecnologias e adotar as melhores práticas para entregar valor real aos usuários.",
+    "Desenvolvedor de Software Front-end com 3+ anos de experiência no desenvolvimento de aplicações web e mobile, utilizando React e React Native." +
+    " Atuo com stacks modernas de front-end, incluindo Next.js, React Query, Zustand, React Hook Form, Zod, Tailwind CSS e Storybook, sempre com foco em performance, escalabilidade e boas práticas de código." +
+    " Tenho experiência com integração de APIs, uso de serviços em nuvem (AWS), automação de CI/CD e atuação em ambientes ágeis (Scrum). Possuo também conhecimentos básicos em Back-end com Python e Java, facilitando a colaboração com times multidisciplinares." +
+    " Sou proativo, tenho facilidade de aprendizado e estou em constante evolução técnica." +
+    " Aberto a oportunidades como Front-end Developer / React / React Native.",
 };
 const worktimeline = [
+  {
+    jobtitle: "Desenvolvedor Front-end",
+    where: "Agile Connect - Curitiba",
+    date: "2025-Presente",
+  },
   {
     jobtitle: "Desenvolvedor Front-end",
     where: "Smartly - Curitiba",
@@ -49,19 +55,19 @@ const skills = [
   },
   {
     name: "React Native",
-    value: 85,
+    value: 90,
   },
   {
     name: "React",
-    value: 80,
+    value: 90,
   },
   {
     name: "Next.js",
-    value: 70,
+    value: 90,
   },
   {
     name: "Node.js",
-    value: 60,
+    value: 50,
   },
   {
     name: "Python",
